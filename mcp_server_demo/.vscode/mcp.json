@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "calculator-server": {
+      "command": "python3",
+      "args": ["/Users/sumit/development/mcp_server_demo/mcp_server.py"],
+      "transport": "stdio"
+    }
+  }
+}
